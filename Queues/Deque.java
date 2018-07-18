@@ -115,13 +115,6 @@ public class Deque<Item> implements Iterable<Item> {
             return item;
         }
     }
-    public static void main(String[] args) {
-		Deque<Integer> deque = new Deque<Integer>();
-		         deque.addFirst(0);
-		         deque.addFirst(1);
-		         deque.removeLast()  ; 
-		         deque.removeLast();
-    }
 }
 	
   

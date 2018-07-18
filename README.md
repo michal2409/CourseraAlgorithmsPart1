@@ -3,4 +3,5 @@
 ## Assigments specification
 
 Percolation - http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
+
 Queues - http://coursera.cs.princeton.edu/algs4/assignments/queues.html
