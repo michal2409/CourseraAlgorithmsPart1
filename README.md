@@ -5,3 +5,7 @@
 Percolation - http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
 
 Queues - http://coursera.cs.princeton.edu/algs4/assignments/queues.html
+
+Collinear - http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
+
+8Puzzle - http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
