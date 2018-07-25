@@ -57,7 +57,7 @@ public class KdTree {
     public void insert(Point2D p) { // add the point to the set (if it is not already in the set)
         if (p == null)
             throw new java.lang.IllegalArgumentException();
-        root = addNode(root, p, 0, 0,0,1,1);
+        root = addNode(root, p, 0, 0, 0, 1, 1);
     }
 
     public boolean contains(Point2D p) { // does the set contain point p?
