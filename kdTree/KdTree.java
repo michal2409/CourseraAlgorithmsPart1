@@ -76,6 +76,8 @@ public class KdTree {
         return false;
     }
 
+    public void draw() {}
+
     private void searchRange(Node node, RectHV rectHV, LinkedList<Point2D> points) {
         if (node == null)
             return;
